@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 
-/* Correções de base para responsividade e scroll */
 html, body {
   height: 100%;
   margin: 0;
@@ -217,7 +216,6 @@ footer {
   font-size: 14px;
 }
 
-/* Responsivo - tablets */
 @media (max-width: 768px) {
   .nav-links {
     display: grid;
@@ -231,7 +229,6 @@ footer {
   }
 }
 
-/* Responsivo - celulares */
 @media (max-width: 480px) {
   .servicos,
   .sobre,
@@ -255,3 +252,4 @@ footer {
     padding: 12px 24px;
   }
 }
+
