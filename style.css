@@ -121,11 +121,6 @@ main {
   transform: translateY(-8px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
-.card img {
-  width: 100%;
-  border-radius: 12px;
-  margin-bottom: 15px;
-}
 .card h3 {
   color: #ff4fa0;
   font-weight: 600;
@@ -251,3 +246,4 @@ footer {
     padding: 12px 24px;
   }
 }
+
